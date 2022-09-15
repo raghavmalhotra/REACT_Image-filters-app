@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REACT_Image-filters-app/static/css/main.cb11b442.css",
+    "main.js": "/REACT_Image-filters-app/static/js/main.d54bb78e.js",
+    "index.html": "/REACT_Image-filters-app/index.html",
+    "main.cb11b442.css.map": "/REACT_Image-filters-app/static/css/main.cb11b442.css.map",
+    "main.d54bb78e.js.map": "/REACT_Image-filters-app/static/js/main.d54bb78e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb11b442.css",
+    "static/js/main.d54bb78e.js"
+  ]
+}
